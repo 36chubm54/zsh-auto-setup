@@ -11,15 +11,15 @@ The project includes:
 
 # 📦 Composition
 
-ZSH/
-* install_zsh_debian.sh (Installing Zsh and Oh My Zsh in Debian/Ubuntu)
-* install_zsh_arch.sh (Installing Zsh and Oh My Zsh on Arch-based systems)
-* install_zsh_fedora.sh (Installing Zsh and Oh My Zsh in Fedora
-* apply_zsh_theme.sh (Installing a custom theme)
-* README.md (Documentation)
-* README_RU.md (in Russian)
-* backup/
-  * .zshrc (Example/backup of the Zsh configuration)
+zsh-auto-setup/
+* .gitignore # Exceptions for Git
+* apply_zsh_theme.sh # Download and activate the powerlevel10k theme
+* install_zsh_arch.sh # Installing Zsh and Oh My Zsh on Arch-based systems
+* install_zsh_debian.sh # Installing Zsh and Oh My Zsh in Debian/Ubuntu
+* install_zsh_fedora.sh # Installing Zsh and Oh My Zsh in Fedora
+* LICENSE # MIT License
+* README.md # Documentation (in English)
+* README_RU.md # Documentation (in Russian)
 
 # 🚀 Installation
 
