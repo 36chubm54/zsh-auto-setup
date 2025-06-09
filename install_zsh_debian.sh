@@ -1,17 +1,17 @@
-# Загрузка и обновление пакетов
+# Updating packages
 sudo apt update
 
-# Установка git
+# Installing git
 sudo apt install git
 
-# Установка шелла
+# Installing the shell
 sudo apt install zsh
 
-# Создание файла конфигурации
+# Creating a configuration file
 touch ~/.zshrc
 
-# Назначение zsh командной оболочкой (shell) по умолчанию
+# Assigning zsh to the default command shell (shell)
 chsh -s $(which zsh)
 
-# Установка фреймворка OhMyZsh
+# Installing the OhMyZsh framework
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
