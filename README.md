@@ -36,3 +36,5 @@ bash install_zsh_fedora.sh # for Fedora
 bash apply_zsh_theme.sh
 ```
 **After the script is finished, the terminal will restart.**
+
+> When installing Oh My Zsh, a basic one is created .zshrc. The script apply_zsh_theme.sh updates it to include the powerlevel10k theme. You can manually add additional plugins and aliases.
