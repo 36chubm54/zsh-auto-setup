@@ -3,8 +3,8 @@
 Scripts for automatic installation of Zsh, Oh My Zsh and custom theme **[powerlevel10k](https://github.com/romkatv/powerlevel10k)** suitable for popular Linux distributions: **Ubuntu/Debian, Arch, Fedora**.
 
 The project includes:
-- Install Zsh and Oh My Zsh;
-- Download and configure the powerlevel10k theme;
+* Install Zsh and Oh My Zsh;
+* Download and configure the powerlevel10k theme;
 
 > The powerlevel10k theme belongs to [@romkatv](https://github.com/romkatv) and is installed directly from the official repository.
 
