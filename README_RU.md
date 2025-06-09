@@ -3,9 +3,8 @@
 Скрипты для автоматической установки Zsh, Oh My Zsh и кастомной темы **[powerlevel10k](https://github.com/romkatv/powerlevel10k)**, подходящие для популярных дистрибутивов Linux: **Ubuntu/Debian, Arch, Fedora**.
 
 Проект включает:
-- Установку Zsh и Oh My Zsh;
-- Загрузку и настройку темы powerlevel10k;
-- Пример конфигурации `.zshrc`.
+* Установку Zsh и Oh My Zsh;
+* Загрузку и настройку темы powerlevel10k;
 
 > Тема powerlevel10k принадлежит [@romkatv](https://github.com/romkatv) и устанавливается напрямую из официального репозитория.
 
