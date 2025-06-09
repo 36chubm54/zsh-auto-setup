@@ -5,7 +5,6 @@ Scripts for automatic installation of Zsh, Oh My Zsh and custom theme **[powerle
 The project includes:
 - Install Zsh and Oh My Zsh;
 - Download and configure the powerlevel10k theme;
-- Example of the configuration `.zshrc`.
 
 > The powerlevel10k theme belongs to [@romkatv](https://github.com/romkatv) and is installed directly from the official repository.
 
