@@ -11,14 +11,14 @@
 # 📦 Состав
 
 zsh-auto-setup/
-* .gitignore # Исключения для Git
-* LICENSE # Лицензия MIT
-* README.md # Документация (на английском)
-* README_RU.md # Документация (на русском)
-* apply_zsh_theme.sh # Загрузка и активация темы powerlevel10k
-* install_zsh_arch.sh # Установка Zsh и Oh My Zsh в Arch-based системах
-* install_zsh_debian.sh # Установка Zsh и Oh My Zsh в Debian/Ubuntu
-* install_zsh_fedora.sh # Установка Zsh и Oh My Zsh в Fedora
+* .gitignore              # Исключения для Git
+* LICENSE                 # Лицензия MIT
+* README.md               # Документация (на английском)
+* README_RU.md            # Документация (на русском)
+* apply_zsh_theme.sh      # Загрузка и активация темы powerlevel10k
+* install_zsh_arch.sh     # Установка Zsh и Oh My Zsh в Arch-based системах
+* install_zsh_debian.sh   # Установка Zsh и Oh My Zsh в Debian/Ubuntu
+* install_zsh_fedora.sh   # Установка Zsh и Oh My Zsh в Fedora
 
 # 🚀 Установка
 
