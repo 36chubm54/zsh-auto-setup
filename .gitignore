@@ -1,0 +1,28 @@
+# .gitignore
+
+# Конфигурации и резервные файлы
+*.swp
+*.bak
+*.tmp
+*.old
+*~
+
+# Кэш и логи
+*.log
+.cache/
+.zcompdump*
+.zsh_history
+zsh_logs/
+
+# Архивы
+*.zip
+*.tar.gz
+*.tar.xz
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Системные
+.DS_Store
+Thumbs.db
