@@ -4,7 +4,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git "${ZSH_CUSTOM:-
 # Replacing strings in the config
 cat ~/.zshrc | sed 's|ZSH_THEME="robbyrussell"|ZSH_THEME="powerlevel10k/powerlevel10k"|' > ~/.zshrc_new
 mv ~/.zshrc_new ~/.zshrc
-cat ~/.zshrc | sed 's|plugins=(git)|plugins=(git zsh-autosuggestions zsh-syntax-highlighting)|' > ~/.zshrc_new
+cat ~/.zshrc | sed 's|plugins=(git)|plugins=(git zsh-autosuggestions zsh-syntax-highlighting zsh-completions)|' > ~/.zshrc_new
 mv ~/.zshrc_new ~/.zshrc
 
 # Install autocomplete and syntax highlighting plugins
