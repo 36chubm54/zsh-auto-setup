@@ -25,13 +25,13 @@ zsh-auto-setup/
 1. Откройте терминал в каталоге `ZSH/`.
 2. Запустите подходящий скрипт установки для вашей системы:
 ```
-./install_zsh_debian.sh   # для Ubuntu/Debian
 ./install_zsh_arch.sh     # для Arch
+./install_zsh_debian.sh   # для Ubuntu/Debian
 ./install_zsh_fedora.sh   # для Fedora
 ```
 3. Примените тему:
 ```
-bash apply_zsh_theme.sh
+./apply_zsh_theme.sh
 ```
 **После завершения работы скрипта произойдёт перезапуск терминала.**
 
