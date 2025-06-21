@@ -1,5 +1,6 @@
 # Updating packages
 sudo apt update
+sudo apt upgrade -y
 
 # Installing git
 sudo apt install git
