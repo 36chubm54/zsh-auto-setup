@@ -31,7 +31,7 @@ bash install_zsh_fedora.sh   # for Fedora
 ```
 3. Apply the theme:
 ```
-./apply_zsh_theme.sh
+bash apply_zsh_theme.sh
 ```
 **After the script is finished, the terminal will restart.**
 
