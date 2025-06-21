@@ -25,9 +25,9 @@ zsh-auto-setup/
 1. Open the terminal in the `ZSH/` directory.
 2. Run the appropriate installation script for your system:
 ```
-./install_zsh_arch.sh     # for Arch
-./install_zsh_debian.sh   # for Ubuntu/Debian
-./install_zsh_fedora.sh   # for Fedora
+bash install_zsh_arch.sh     # for Arch
+bash install_zsh_debian.sh   # for Ubuntu/Debian
+bash install_zsh_fedora.sh   # for Fedora
 ```
 3. Apply the theme:
 ```
