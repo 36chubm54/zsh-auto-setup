@@ -31,7 +31,7 @@ bash install_zsh_fedora.sh   # для Fedora
 ```
 3. Примените тему:
 ```
-./apply_zsh_theme.sh
+bash apply_zsh_theme.sh
 ```
 **После завершения работы скрипта произойдёт перезапуск терминала.**
 
