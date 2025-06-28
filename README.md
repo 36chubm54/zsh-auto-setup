@@ -8,7 +8,7 @@ The project includes:
 
 > The powerlevel10k theme belongs to [@romkatv](https://github.com/romkatv) and is installed directly from the official repository.
 
-# 📦 Composition
+## 📦 Composition
 
 zsh-auto-setup/
 * .gitignore              # Exceptions for Git
@@ -20,7 +20,7 @@ zsh-auto-setup/
 * install_zsh_debian.sh   # Installing Zsh and Oh My Zsh in Debian/Ubuntu
 * install_zsh_fedora.sh   # Installing Zsh and Oh My Zsh in Fedora
 
-# 🚀 Installation
+## 🚀 Installation
 
 1. Open the terminal in the `ZSH/` directory.
 2. Run the appropriate installation script for your system:
